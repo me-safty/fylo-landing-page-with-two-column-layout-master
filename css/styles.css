@@ -27,6 +27,9 @@ body {
   font-family: "Raleway", sans-serif;
   text-transform: capitalize;
 }
+a::selection {
+  background-color: white;
+}
 .container {
   margin: 0 auto;
   padding: 0 20px;
